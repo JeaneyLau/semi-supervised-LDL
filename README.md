@@ -1,2 +1,3 @@
 # semi-supervised-LDL
-code for paper: XXX
+Code for paper: XXX. 
+It will be available after the peer review.
