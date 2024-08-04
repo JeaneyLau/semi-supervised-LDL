@@ -1,7 +1,9 @@
 # SS-ALDL: Consistency-Based Semi-Supervised Label Distribution Learning for Acne Severity Classification
-This is the code repository for the Semi-Supervised Facial Acne Label Distribution Learning Model (SS-ALDL), implemented by Pytorch. SS-ALDL is the first semi-supervised label distribution learning model designed for facial acne grading tasks. It integrates the acne grading task and acne counting task using label distribution learning. Meanwhile, the semi-supervised training method enables it to learn features of unlabeled data. In addition, we propose a feature similarity learning loss to enhance consistency. All experiments were conducted on the ACNE04 public dataset.
+This is the code repository for the Semi-Supervised Facial Acne Label Distribution Learning Model (SS-ALDL), implemented by Pytorch. 
 
-Graphical Abstract:
+SS-ALDL is the first semi-supervised label distribution learning model designed for facial acne grading tasks. It integrates the acne grading task and acne counting task using label distribution learning. Meanwhile, the semi-supervised training method enables it to learn features of unlabeled data. In addition, we propose a feature similarity learning loss to enhance consistency. All experiments were conducted on the ACNE04 public dataset.
+
+### Graphical Abstract
 <div align="center" >
   <img src="https://github.com/JeaneyLau/semi-supervised-LDL/blob/main/image/Abstract.jpg">
 </div>
