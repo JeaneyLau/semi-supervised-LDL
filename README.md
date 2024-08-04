@@ -38,8 +38,8 @@ After training, the result will be saved in `./result/SS_ALDL`. Among them, the 
 | FixMatch|  0.691|0.339| 0.515|
 | FlexMatch|  0.702 |0.311| 0.525|
 | FreeMatch|  0.702 |0.315| 0.452|
-| SoftMatch|  0.695 |0.311| *0.538* |
-| SS-ALDL (Ours)|  *0.708* |*0.297*| 0.511|
+| SoftMatch|  0.695 |0.311| **0.538** |
+| SS-ALDL (Ours)|  **0.708** |**0.297**| 0.511|
 
 ### 20% labeled data 
 
@@ -53,4 +53,4 @@ After training, the result will be saved in `./result/SS_ALDL`. Among them, the 
 | FlexMatch|  0.736 |0.270| 0.599|
 | FreeMatch|  0.739 |0.270| 0.582|
 | SoftMatch|  0.743 |0.277| 0.591 |
-| SS-ALDL (Ours)|  *0.756* |*0.246*| *0.605*|
+| SS-ALDL (Ours)|  **0.756** |**0.246**| **0.605**|
